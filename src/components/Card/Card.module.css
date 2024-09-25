@@ -1,0 +1,14 @@
+
+
+
+
+.card{
+    width: 500px;
+    height: 500px;
+    background-color: chocolate;
+    margin: auto;
+    margin-top: 100px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
